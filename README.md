@@ -74,25 +74,15 @@ D. Halaman Kelola Gallery
 Halaman Kelola Gallery adalah halaman untuk mengelola Gallery dimulai dari Tampil Gallery, Tambah Gallery, Edit Gallery dan Hapus Gallery.
 
 ![Image](https://github.com/user-attachments/assets/87860c88-d94b-41aa-b850-5955d78ed25d)
-![Screenshot 2025-06-23 125250](https://github.com/user-attachments/assets/d37f4feb-5755-4644-9435-0bf03bc1fcf8)
-![Screenshot 2025-06-23 125306](https://github.com/user-attachments/assets/3891ce33-96e6-43f9-84d6-07c3f523a073)
+![Image](https://github.com/user-attachments/assets/6d9088e9-21c3-47a8-995c-d7c51d78d0b9)
+![Image](https://github.com/user-attachments/assets/c3be3ea8-c1e5-4cda-b3ac-29358d8c286a)
 
 E. Halaman About
 
 Halaman About adalah halaman untuk mengelola About dimulai dari Tampil About, Tambah About, Edit About dan Hapus About.
 
 ![Image](https://github.com/user-attachments/assets/8c951abe-ef5b-4452-ad7c-4922d1f738f0)
-![Image](https://github.com/user-attachments/assets/6d9088e9-21c3-47a8-995c-d7c51d78d0b9)
-![Image](https://github.com/user-attachments/assets/c3be3ea8-c1e5-4cda-b3ac-29358d8c286a)
+![Image](https://github.com/user-attachments/assets/59239250-574a-4250-9c46-3297442adb29)
+![Image](https://github.com/user-attachments/assets/ec828528-af9d-4e08-b48b-22394b09e41c)
 
-**PENAMBAHAN FITUR BARU (OPSIONAL) TAMBAHAN NILAI**
-1. Login Multiuser + Hak Akses
-2. Kategori / Tag Artikel
-3. Komentar Artikel
-4. Form Kontak / Buku Tamu
-5. Statistik Pengunjung
-6. Fitur Pencarian
-7. Tampilan Dark Mode
-8. Jadwal / Timeline Kegiatan
-9. Integrasi AI
-10. Fitur lainnya sesuai keinginan
+
